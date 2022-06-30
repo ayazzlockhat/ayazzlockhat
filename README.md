@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [ayazlockhat.me](https://ayazlockhat.me/)
 
-- 🏫 I'm currently a **2nd year Computer Science student attending McMaster University**
+- 🏫 I'm currently a **3rd year Computer Science student attending McMaster University**
 
 - 📫 How to reach me **ayazzlockhat@gmail.com**
 
