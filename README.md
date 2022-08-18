@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently expanding **my knowledge in programming**
 
-- 👨‍💻 All of my projects are available at [ayazlockhat.me](https://ayazlockhat.me/)
+- 👨‍💻 All of my projects are available at [ayazlockhat.com](https://ayazlockhat.com/)
 
 - 🏫 I'm currently a **3rd year Computer Science student attending McMaster University**
 
