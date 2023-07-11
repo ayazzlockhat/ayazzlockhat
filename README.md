@@ -9,7 +9,7 @@
 
 - 🤵🏽 My personal website can be found at [ayazlockhat.com](https://ayazlockhat.com/)
 
-- 🏫 I'm currently a **3rd year Computer Science student attending McMaster University**
+- 🏫 I'm currently a **Computer Science student attending McMaster University**
 
 - 📫 How to reach me **ayazzlockhat@gmail.com**
 
